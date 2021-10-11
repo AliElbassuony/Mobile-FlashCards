@@ -5,7 +5,7 @@ The Project Bootstraped by create-react-native-app
 
 To run your project, navigate to the directory
 
-- cd mobile-FlashCards
+- cd Mobile-FlashCards
 
 ### install dependencies
 
