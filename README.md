@@ -43,7 +43,7 @@ or
 yarn web
 ```
 
-or Through Expo
+or Through Expo by
 
 ```
 expo start
